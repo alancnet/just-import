@@ -1,0 +1,15 @@
+{
+  "name": "just-import",
+  "version": "0.0.1",
+  "description": "Fix ERR_REQUIRE_ESM with this module.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Colón <alancnet@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "split-chars": "^4.0.0"
+  }
+}

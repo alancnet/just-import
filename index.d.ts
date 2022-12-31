@@ -1,0 +1,1 @@
+export function justImport<T = any>(id:string):Promise<T>
