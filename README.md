@@ -1,3 +1,8 @@
+![npm bundle size](https://img.shields.io/bundlephobia/min/just-import)
+![npm type definitions](https://img.shields.io/npm/types/just-import)
+![npm version](https://img.shields.io/npm/v/just-import)
+![npm license](https://img.shields.io/npm/l/just-import)
+
 # just-import
 
 If you are getting the following error, this simple library can help:

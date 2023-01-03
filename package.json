@@ -1,6 +1,6 @@
 {
   "name": "just-import",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Fix ERR_REQUIRE_ESM with this module.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -8,6 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alan Colón <alancnet@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+github.com:alancnet/just-import.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "split-chars": "^4.0.0"
